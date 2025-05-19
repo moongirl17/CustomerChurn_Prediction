@@ -1,2 +1,2 @@
-# FullStack-Data-Analyst
-Projek kursus fullstack Data analyst
+# Data Analysis
+Customer Churn Prediction using Machine Learning
